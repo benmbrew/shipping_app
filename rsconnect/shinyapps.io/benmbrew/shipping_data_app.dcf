@@ -1,0 +1,13 @@
+name: shipping_data_app
+title: shipping_data_app
+username:
+account: benmbrew
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 297256
+bundleId: 1262893
+url: https://benmbrew.shinyapps.io/shipping_data_app/
+when: 1520738394.22431
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/ShippingSourceData.xlsx

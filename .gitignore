@@ -5,6 +5,10 @@
 # Session Data files
 .RData
 
+# ignore a stuff from data folder
+data/*
+/data/*
+
 # Example code in package build process
 *-Ex.R
 
